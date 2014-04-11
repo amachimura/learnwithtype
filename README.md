@@ -1,4 +1,4 @@
 learnwithtype
 =============
 
-collecting words from website, type, then grouping into "Rakushou", "Tokui", "Nigate"
+collecting words from website, type it, then grouping into "Rakushou", "Tokui", "Nigate"
